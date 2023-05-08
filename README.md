@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayara</h1>
 <h3 align="center">A technology student from Brazil</h3>
 
-- 🌱 I’m currently learning **Javascript and React**
+- 🌱 I’m currently learning **Typescript and React**
 
 
 <p align="left">
