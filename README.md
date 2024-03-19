@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayara</h1>
 <h3 align="center">A technology student from Brazil</h3>
 
-- 🌱 I’m currently learning **Node JS and Flutter**
+- 🌱 I’m currently learning **Java**, **MongoDB** and **Flutter**.
 
 
 <p align="left">
